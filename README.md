@@ -1,5 +1,9 @@
-Hello there 
-I am Abdulrahman Wazzan, a Senior Backend Developer specializing in Laravel and Node.js. Over a span of more than 7 years, I have established a reputation for developing scalable APIs and achieving customer satisfaction rates as high as 95%.
+Here’s your README updated with your name **Summiya** while keeping the style and formatting intact:
+
+---
+
+Hello there
+I am **Summiya**, a Senior Backend Developer specializing in Laravel and Node.js. Over a span of more than 7 years, I have established a reputation for developing scalable APIs and achieving customer satisfaction rates as high as 95%.
 
 My deployments on AWS not only guarantee high availability but are streamlined via CI/CD pipelines, a testament to my understanding of full software development life cycles. My skill set extends to proficient project and team management, always focused on meeting deadlines and prioritizing feature implementations effectively.
 
@@ -9,13 +13,14 @@ Apart from technical endeavors, I actively share my expertise and insights throu
 
 For collaboration or more detailed insights into my professional background, feel free to schedule a meeting via Calendly.
 
-My Website  Twitter Badge  Linkedin Badge  Gmail Badge  GitHub abd-wazzan 
+My Website  Twitter Badge  Linkedin Badge  Gmail Badge  GitHub summiya
 
+```php
 <?php
 
 namespace Wazzan;
 
-class Abdulrahman extends Developer
+class Summiya extends Developer
 {
     public function getDailyTechnologies(): array
     {
@@ -68,18 +73,25 @@ class Abdulrahman extends Developer
                 —Douglas Adams, Mostly Harmless (1992)';
     }
 }
-⚡ Technologies
-     NestJS                                              Markdown  Apache 
+```
 
-💻 Tools:
-PhpStorm  Postman  Docker  Jira  Trello  Todoist  Gitbucket  Gitlab  Ubuntu  Windows  Chrome  Google Drive  Confluence      GitHub  Linux 
+⚡ **Technologies**
+NestJS  Markdown  Apache
+
+💻 **Tools:**
+PhpStorm  Postman  Docker  Jira  Trello  Todoist  Gitbucket  Gitlab  Ubuntu  Windows  Chrome  Google Drive  Confluence  GitHub  Linux
 
 Anurag's GitHub stats Top Langs
 
 Thanks for stopping by my profile!
+
+```
 ░██╗░░░░░░░██╗░█████╗░███████╗███████╗░█████╗░███╗░░██╗
 ░██║░░██╗░░██║██╔══██╗╚════██║╚════██║██╔══██╗████╗░██║
 ░╚██╗████╗██╔╝███████║░░███╔═╝░░███╔═╝███████║██╔██╗██║
 ░░████╔═████║░██╔══██║██╔══╝░░██╔══╝░░██╔══██║██║╚████║
 ░░╚██╔╝░╚██╔╝░██║░░██║███████╗███████╗██║░░██║██║░╚███║
 ░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝
+```
+
+
