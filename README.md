@@ -1,8 +1,3 @@
-Here’s your README updated with your name **Summiya** while keeping the style and formatting intact:
-
----
-
-Hello there
 I am **Summiya**, a Senior Backend Developer specializing in Laravel and Node.js. Over a span of more than 7 years, I have established a reputation for developing scalable APIs and achieving customer satisfaction rates as high as 95%.
 
 My deployments on AWS not only guarantee high availability but are streamlined via CI/CD pipelines, a testament to my understanding of full software development life cycles. My skill set extends to proficient project and team management, always focused on meeting deadlines and prioritizing feature implementations effectively.
